@@ -156,3 +156,4 @@ $RECYCLE.BIN/
 .project
 .classpath
 /WEB-INF/classes/
+/build/
